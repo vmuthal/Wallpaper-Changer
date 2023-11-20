@@ -29,7 +29,7 @@ npm run dev
 ## Before Use
 Just run below command before using the cmd file only once.
 ```bash
-npm run bjuild
+npm run build
 ```
 
 ## Usage
